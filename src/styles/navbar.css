@@ -1,0 +1,47 @@
+
+nav {
+    width: 100%;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    background: rgba(0,0,0,0.0001);
+    position: fixed;
+    transition: all .5s;
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    background-image: url(../images/EcommerceLogo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.cart-btn {
+    font-size: 1.8rem;
+    position: relative;
+    cursor: pointer;
+}
+
+.cart-count {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: white;
+    font-size: .9rem;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.dark-background {
+    background-color: rgb(211, 231, 245);
+    background-color: white;
+}
