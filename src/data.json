@@ -4,7 +4,7 @@
         "price": "25.59",
         "name": "Dress shirt",
         "category": "Men's Clothing",
-        "imgUrl": "../src/images/dress-shirt.jpeg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/dress-shirt.jpeg",
         "description": "These shirts are your perfect casual wear companion."
     },
     {
@@ -12,7 +12,7 @@
         "price": "48.59",
         "name": "sweaters",
         "category": "Women's Clothing",
-        "imgUrl": "../src/images/sweaters-isolated.jpg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/sweaters-isolated.jpg",
         "description": "With these on you are safe hand during autumn or winter."
     },
     {
@@ -20,7 +20,7 @@
         "price": "48.59",
         "name": "Black shirt",
         "category": "Men's Clothing",
-        "imgUrl": "../src/images/ryan-hoffman.jpg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/ryan-hoffman.jpg",
         "description": "These shirts are your perfect casual wear companion."
     },
     {
@@ -28,7 +28,7 @@
         "price": "48.59",
         "name": "Blue Shirt",
         "category": "Women's Clothing",
-        "imgUrl": "../src/images/silky-polo-blouse.jpg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/silky-polo-blouse.jpg",
         "description": "These are perfect with meeting with friends."
     },
     {
@@ -36,7 +36,7 @@
         "price": "48.59",
         "name": "Shirt",
         "category": "Men's Clothing",
-        "imgUrl": "../src/images/shirt.jpg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/shirt.jpg",
         "description": "These shirts are your perfect casual wear companion."
     },
     {
@@ -44,7 +44,7 @@
         "price": "48.59",
         "name": "Sneakers",
         "category": "Women's Clothing",
-        "imgUrl": "../src/images/sneaker.jpeg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/sneaker.jpeg",
         "description": "These sneakers are your perfect casual wear companion, Featuring a durable rubber outer sole, they'll withstand everythin the weather can offer."
     },
     {
@@ -52,7 +52,7 @@
         "price": "48.59",
         "name": "Blouse",
         "category": "Women's Clothing",
-        "imgUrl": "../src/images/female-dress.jpg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/female-dress.jpg",
         "description": "These shirts are your perfect casual wear companion."
     },
     {
@@ -60,7 +60,7 @@
         "price": "39.59",
         "name": "Shoe",
         "category": "Men's Clothing",
-        "imgUrl": "../src/images/shoe2.jpeg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/shoe2.jpeg",
         "description": "These low-profile sneakers are your perfect casual wear companion, Featuring a durable rubber outer sole, they'll withstand everythin the weather can offer."
     },
     {
@@ -68,7 +68,7 @@
         "price": "94.55",
         "name": "Female boots",
         "category": "Women's Clothing",
-        "imgUrl": "../src/images/boots.jpeg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/boots.jpeg",
         "description": "These boots are your perfect casual wear companion, Featuring a durable rubber outer sole, they'll withstand everythin the weather can offer."
     },
     {
@@ -76,7 +76,7 @@
         "price": "102.65",
         "name": "Men Boots",
         "category": "Men's Clothing",
-        "imgUrl": "../src/images/boots2.jpeg",
+        "imgUrl": "https://github.com/Victor-Durodola/ecommerce-app/raw/main/src/images/boots2.jpeg",
         "description": "These boots are your perfect casual wear companion, Featuring a durable rubber outer sole, they'll withstand everythin the weather can offer."
     }
 ]
